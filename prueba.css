@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(73, 216, 138);
+}
+.flex-container{
+    border:1px solid black;
+    background; #ccc;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    width: 80;
+    margin: 0 auto;
+}
+.cajita {
+    border: 1px solid rgb(red, green, blue);
+    background-color: beige;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+    text-align: center;
+    mergin:5px;
+}

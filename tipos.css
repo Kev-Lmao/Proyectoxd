@@ -1,0 +1,98 @@
+p {
+  font-family: cursive;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-family: cursive;
+  font-size: xx-large;
+}
+p {
+  font-family: cursive;
+  text-align: center;
+}
+h2 {
+  text-align: left;
+  font-family: cursive;
+  font-size: xx-large;
+  margin-left: 80px;
+}
+body {
+  text-align: center;
+  background-color: #e4cbf5;
+}
+h1 {
+  background-color: #c270f8;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-family: cursive;
+  font-size: xx-large;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  margin: 0 10px;
+}
+button {
+  background-color: #ac7ace;
+  color: white;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 50px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+  position: relative;
+  font-family: cursive;
+}
+button:hover {
+  background-color: #ddaaff;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.contenedor {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(176, 94, 94, 0.1);
+}
+.gato {
+  width: 350px;
+  float: left;
+  margin-left: 50px;
+  height: 430px;
+}
+h3 {
+  text-align: right;
+  font-family: cursive;
+  font-size: xx-large;
+  margin-right: 80px;
+}
+.gato2 {
+  width: 350px;
+  float: Right;
+  margin-right: 50px;
+  height: 330px;
+  margin-bottom: 50px;
+}
+.piecito{
+    background-color: rgba(0, 0, 0, 0.541);
+    padding: 5px;
+    width: cover;
+    color: aliceblue;
+    
+}
